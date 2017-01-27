@@ -1,11 +1,26 @@
 Título (30)
 ===========
 
+MONTELLANO TURISMO
+
 Descripción breve (80)
 ======================
 
+En esta guía encontraras toda la información de interés para visitar Montellano.
+
 Descripción completa (4000)
 ===========================
+
+Esta guía de Montellano te será muy útil para moverte por sus calles, localizar cada bar, restaurante, alojamiento, o lugares visitables de interés cultural o turístico, podrás conocer donde se celebran sus principales fiestas, o descubrir increíbles vistas en la Sierra de San Pablo.
+Montellano se encuentra localizado en la Sierra Sur Sevillana, a sesenta kilometros de la capital sevillana, colindante con Cádiz, es el primer pueblo serrano del sistema subbético y se alza en la falda de la Sierra de San Pablo, una formidable área de interés natural y recreativo. A su vez es obligado punto de paso hacia importantes centros turísticos como: Ronda, la Costa del Sol, Jerez o la ruta de los Pueblos Blancos.
+
+Montellano ofrece atractivos en su casco urbano como la Parroquia de San José, la Ermita del Cristo de los Remedios, la Fuente, la Casa de Ancianos, la hermosa Capilla de las Hermanas de la Cruz y el Callejón Padres Almuedo, calle típica del casco antiguo.
+
+Además, ya fuera del casco urbano, se puede visitar el Monumento Natural Los Tajos de Mogarejo, en el arroyo Salado. Restos de un molino y de un puente, del siglo XVII, que complementan los valores paisajísticos de tan singular paisaje.
+Por último, Montellano posee un Bien de Interés Cultural muy interesante: el Castillo de Cote (siglo XIII), que es un caso singular en la Península por su arquitectura. 
+
+
+
 
 Etiquetas	
 ===========
@@ -22,3 +37,5 @@ Sitio web
 Correo electrónico
 ==================
 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
